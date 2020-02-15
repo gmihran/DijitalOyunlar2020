@@ -1,4 +1,3 @@
-# DijitalOyunlar2020
 # Dijital Oyunlar için Kod Yazımı II
 
 ## 2019 - 2020 Bahar Dönemi Dijital Oyunlar için Kod Yazımı II Ders Notları (C#)
