@@ -6,7 +6,9 @@
 
 C# Dersleri - https://www.youtube.com/playlist?list=PLKnjBHu2xXNPkeQtMOJczzEO6LK5OV35K
 
-C# Eğitim Videoları - https://beykozedutr-my.sharepoint.com/:f:/g/personal/gozdemihranaltinsoy_beykoz_edu_tr/En_j7xK9g5JHrMYufOF4vY8B3wQuelCIMDJF_SbP5VjTKw?e=EufSuN
+C# Eğitim Videoları Drive Linki - https://beykozedutr-my.sharepoint.com/:f:/g/personal/gozdemihranaltinsoy_beykoz_edu_tr/En_j7xK9g5JHrMYufOF4vY8B3wQuelCIMDJF_SbP5VjTKw?e=EufSuN
+
+C# Eğitim Videoları - https://www.youtube.com/playlist?list=PLh9ECzBB8tJNnowfMHINA00u8cJboZzNt
 
 C# tasarım desenleri - https://www.youtube.com/playlist?list=PLTzpV7jb-qW_Hhqh4J7NH7vONiR0CmoH6
 
