@@ -1,0 +1,7 @@
+C:\Users\gmihr\source\repos\Ders7_ConsoleApp\Ders7_ConsoleApp\bin\Debug\Ders7_ConsoleApp.exe.config
+C:\Users\gmihr\source\repos\Ders7_ConsoleApp\Ders7_ConsoleApp\bin\Debug\Ders7_ConsoleApp.exe
+C:\Users\gmihr\source\repos\Ders7_ConsoleApp\Ders7_ConsoleApp\bin\Debug\Ders7_ConsoleApp.pdb
+C:\Users\gmihr\source\repos\Ders7_ConsoleApp\Ders7_ConsoleApp\obj\Debug\Ders7_ConsoleApp.csprojAssemblyReference.cache
+C:\Users\gmihr\source\repos\Ders7_ConsoleApp\Ders7_ConsoleApp\obj\Debug\Ders7_ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\gmihr\source\repos\Ders7_ConsoleApp\Ders7_ConsoleApp\obj\Debug\Ders7_ConsoleApp.exe
+C:\Users\gmihr\source\repos\Ders7_ConsoleApp\Ders7_ConsoleApp\obj\Debug\Ders7_ConsoleApp.pdb
