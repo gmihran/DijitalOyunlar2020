@@ -18,8 +18,14 @@ Tasarım Kalıpları - https://www.youtube.com/playlist?list=PLh4q2CrNZEpgDccgLo
 
 Tasarım Kalıpları 2 - https://www.youtube.com/playlist?list=PLh4q2CrNZEpjwsxpjaI9B3Y8pp9RH9Qhc
 
+Unity - https://gelecegiyazanlar.turkcell.com.tr/konu/unity 
+
 ### Önerilen Udemy Eğitimleri
 
 83+ Saatlik Aranan Programcı Olma Kamp Kursu: JAVA,PYTHON,C# - https://www.udemy.com/course/programcilik-kursu/
 
 
+
+Order of Execution for Event Functions - Unity Documentation
+https://docs.unity3d.com/2020.1/Documentation/Manual/ExecutionOrder.html
+Unity'deki olay işlevlerinin (metodların) yürütme sırasını ve event'ların çalışma mantığını öğrenmek adına yukarıdaki linkteki flowchart'a bakabilirsiniz. Event'lar (metodlar) bu linkte yer alan FlowChart üzerindeki sırayı takip ederek çalışmaktadır.
