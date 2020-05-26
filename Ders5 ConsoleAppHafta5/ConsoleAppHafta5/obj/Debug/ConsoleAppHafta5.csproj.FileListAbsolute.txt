@@ -1,0 +1,7 @@
+C:\Users\gozdemihranaltinsoy\source\repos\ConsoleAppHafta5\ConsoleAppHafta5\bin\Debug\ConsoleAppHafta5.exe.config
+C:\Users\gozdemihranaltinsoy\source\repos\ConsoleAppHafta5\ConsoleAppHafta5\bin\Debug\ConsoleAppHafta5.exe
+C:\Users\gozdemihranaltinsoy\source\repos\ConsoleAppHafta5\ConsoleAppHafta5\bin\Debug\ConsoleAppHafta5.pdb
+C:\Users\gozdemihranaltinsoy\source\repos\ConsoleAppHafta5\ConsoleAppHafta5\obj\Debug\ConsoleAppHafta5.csprojAssemblyReference.cache
+C:\Users\gozdemihranaltinsoy\source\repos\ConsoleAppHafta5\ConsoleAppHafta5\obj\Debug\ConsoleAppHafta5.csproj.CoreCompileInputs.cache
+C:\Users\gozdemihranaltinsoy\source\repos\ConsoleAppHafta5\ConsoleAppHafta5\obj\Debug\ConsoleAppHafta5.exe
+C:\Users\gozdemihranaltinsoy\source\repos\ConsoleAppHafta5\ConsoleAppHafta5\obj\Debug\ConsoleAppHafta5.pdb

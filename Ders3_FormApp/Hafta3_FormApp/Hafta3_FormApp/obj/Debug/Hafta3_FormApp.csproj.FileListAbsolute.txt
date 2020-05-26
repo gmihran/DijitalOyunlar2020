@@ -1,0 +1,10 @@
+C:\Users\Lisans\Documents\Visual Studio 2017\Projects\Hafta3_FormApp\Hafta3_FormApp\bin\Debug\Hafta3_FormApp.exe.config
+C:\Users\Lisans\Documents\Visual Studio 2017\Projects\Hafta3_FormApp\Hafta3_FormApp\bin\Debug\Hafta3_FormApp.exe
+C:\Users\Lisans\Documents\Visual Studio 2017\Projects\Hafta3_FormApp\Hafta3_FormApp\bin\Debug\Hafta3_FormApp.pdb
+C:\Users\Lisans\Documents\Visual Studio 2017\Projects\Hafta3_FormApp\Hafta3_FormApp\obj\Debug\Hafta3_FormApp.csprojAssemblyReference.cache
+C:\Users\Lisans\Documents\Visual Studio 2017\Projects\Hafta3_FormApp\Hafta3_FormApp\obj\Debug\Hafta3_FormApp.Form1.resources
+C:\Users\Lisans\Documents\Visual Studio 2017\Projects\Hafta3_FormApp\Hafta3_FormApp\obj\Debug\Hafta3_FormApp.Properties.Resources.resources
+C:\Users\Lisans\Documents\Visual Studio 2017\Projects\Hafta3_FormApp\Hafta3_FormApp\obj\Debug\Hafta3_FormApp.csproj.GenerateResource.cache
+C:\Users\Lisans\Documents\Visual Studio 2017\Projects\Hafta3_FormApp\Hafta3_FormApp\obj\Debug\Hafta3_FormApp.csproj.CoreCompileInputs.cache
+C:\Users\Lisans\Documents\Visual Studio 2017\Projects\Hafta3_FormApp\Hafta3_FormApp\obj\Debug\Hafta3_FormApp.exe
+C:\Users\Lisans\Documents\Visual Studio 2017\Projects\Hafta3_FormApp\Hafta3_FormApp\obj\Debug\Hafta3_FormApp.pdb

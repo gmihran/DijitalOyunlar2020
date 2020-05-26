@@ -1,7 +1,0 @@
-C:\Users\gmihr\source\repos\Hafta7ConsoleApp_Sec2\Hafta7ConsoleApp_Sec2\bin\Debug\Hafta7ConsoleApp_Sec2.exe.config
-C:\Users\gmihr\source\repos\Hafta7ConsoleApp_Sec2\Hafta7ConsoleApp_Sec2\bin\Debug\Hafta7ConsoleApp_Sec2.exe
-C:\Users\gmihr\source\repos\Hafta7ConsoleApp_Sec2\Hafta7ConsoleApp_Sec2\bin\Debug\Hafta7ConsoleApp_Sec2.pdb
-C:\Users\gmihr\source\repos\Hafta7ConsoleApp_Sec2\Hafta7ConsoleApp_Sec2\obj\Debug\Hafta7ConsoleApp_Sec2.csprojAssemblyReference.cache
-C:\Users\gmihr\source\repos\Hafta7ConsoleApp_Sec2\Hafta7ConsoleApp_Sec2\obj\Debug\Hafta7ConsoleApp_Sec2.csproj.CoreCompileInputs.cache
-C:\Users\gmihr\source\repos\Hafta7ConsoleApp_Sec2\Hafta7ConsoleApp_Sec2\obj\Debug\Hafta7ConsoleApp_Sec2.exe
-C:\Users\gmihr\source\repos\Hafta7ConsoleApp_Sec2\Hafta7ConsoleApp_Sec2\obj\Debug\Hafta7ConsoleApp_Sec2.pdb
